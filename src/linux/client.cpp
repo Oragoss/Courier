@@ -13,7 +13,7 @@ void error(const char *);
 int main(int argc, char *argv[])
 {
    int sock, n;
-   int length;
+   unsigned int length;
    struct sockaddr_in server, from;
    struct hostent *hp;
    char buffer[256];
