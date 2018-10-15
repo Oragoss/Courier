@@ -13,3 +13,4 @@ Simple UDP Game Server
 #TODO:
 1. Make server response to clients
 2. (BIG) Make simple FPS game that sends messages to server and recieves response
+3. Add TCP connection bindings for things like Player Join/Disconnect
